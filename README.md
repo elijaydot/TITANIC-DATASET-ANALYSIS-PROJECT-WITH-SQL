@@ -1,6 +1,6 @@
 # TITANIC-DATASET-ANALYSIS-PROJECT-WITH-SQL
 
-This repository contains SQL scripts and a PowerPoint presentation for the Titanic Dataset Analysis project. 
+This repository contains SQL scripts and a PowerPoint presentation for the Titanic Dataset Analysis project. A project anchored by [DA Elites](https://dataanalyticselites.mystrikingly.com/)
 
 The SQL scripts showcase data cleaning, exploration, and analysis of the Titanic passenger data, while the PowerPoint presentation summarizes the findings and insights derived from the analysis.
 
